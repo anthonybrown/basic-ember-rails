@@ -1,0 +1,14 @@
+<h1>Our first page</h1>
+<p>Demonstration of Ember at work!</p>
+
+<ul>
+  {{#each model as |monster|}}
+  <li>{{monster.name}} is level {{monster.level}}</li>
+  {{/each}}
+</ul>
+{{!-- just for arrays --}}
+{{!-- <ul> --}}
+  {{!-- {{#each model as |number|}} --}}
+  {{!-- <li>{{number}}</li> --}}
+  {{!-- {{/each}} --}}
+{{!-- </ul> --}}
