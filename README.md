@@ -1,7 +1,10 @@
 # Ember-frontend
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Just wanted to start using Ember again, I always liked Ember.
+When I started learning it, they had a lot of breaking builds
+and I got frustrated and waited until the project got stable.
+Well, time got away from me and I'm taking advantage of some free
+time to get reacquainted with Ember!
 
 ## Prerequisites
 
